@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm William</h1>
 <h3 align="center">A web developer from Boston,MA. With a passion for code and a drive to always learn more!</h3>
 
-- 🌱 inprogress of learning **typescript & next.js**
+- 🌱 in progress of learning **typescript & next.js**
 
 - 📫 How to reach me **fernandezjw07@gmail.com**
 
