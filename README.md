@@ -1,5 +1,7 @@
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hey 👋, I'm William</h1>
 <h3 align="center">A web developer from Boston,MA. With a passion for code and a drive to always learn more!</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif">
 
 - 🌱 in progress of learning **typescript & next.js**
 
